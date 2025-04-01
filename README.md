@@ -28,9 +28,9 @@ Check out the live demo [﻿here](https://travelplannerai.online/).
 
 ## Architecture
 
-![Architecture Diagram](/.eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---ve0MOtPUnuyQd2KhDYy9V---figure---s1GcusGonEODvuhKC9v8rQ.png "Architecture Diagram")
+![Architecture Diagram](/eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---ve0MOtPUnuyQd2KhDYy9V---figure---s1GcusGonEODvuhKC9v8rQ.png "Architecture Diagram")
 
-![Email Flow](/.eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---6HMnI9tpLngtE2PcNIhPL---figure---wYeVIfbY5wm_ADKyKI0VPQ.png "Email Flow")
+![Email Flow](/eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---6HMnI9tpLngtE2PcNIhPL---figure---wYeVIfbY5wm_ADKyKI0VPQ.png "Email Flow")
 
 ## Installation
 
